@@ -1,4 +1,4 @@
-## Hi there 👋
+## Temp text to fill out later
 
 <!--
 **loopl0ploop/loopl0ploop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
