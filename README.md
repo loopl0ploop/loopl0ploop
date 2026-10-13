@@ -1,4 +1,16 @@
-## Temp text to fill out later
+## Portfolio
+
+Project Inferno: https://github.com/Zetian23/ProjectInferno
+-College assignment
+-Coded Player Actor
+
+Bomb-tanical: https://bombshellentertainment.itch.io/bombtanical
+-College assignment
+-Coded UI
+
+Dan's SESCKF: https://github.com/loopl0ploop/Dans-SESCKF
+-Side Project with a friend
+-Coded almost everything
 
 <!--
 **loopl0ploop/loopl0ploop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
