@@ -7,14 +7,14 @@ Project Inferno: https://github.com/Zetian23/ProjectInferno
 -Coded Player Actor
 
 
-Bomb-tanical: https://bombshellentertainment.itch.io/bombtanical
+Bomb-tanical (WIP): https://bombshellentertainment.itch.io/bombtanical
 
 -College assignment
 
 -Coded UI
 
 
-Dan's SESCKF: https://github.com/loopl0ploop/Dans-SESCKF
+Dan's SESCKF (WIP): https://github.com/loopl0ploop/Dans-SESCKF
 
 -Side Project with a friend
 
